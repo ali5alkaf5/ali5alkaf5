@@ -14,7 +14,7 @@ Backend skills:
 - CodeIgniter
 
 ### Portofolios
-- [KMI Expo 2022](https://kmiexpo2021.ub.ac.id)
+- KMI Expo 2022 (Migrated)
 - [Kompact Site](https://kompact.site)
 - [Coffee Bean Universe (Migrated to a new Domain)](https://letharverse.com/)
 - [Arkatama](https://arkatama.id)
